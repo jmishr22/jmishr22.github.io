@@ -1,0 +1,14 @@
+[    
+  {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.avcs.highspanmobilepass",
+            "sha256_cert_fingerprints": [
+                "A4:6B:D0:46:BA:0C:7E:86:7E:EE:CB:12:B6:30:B1:82:51:43:22:80:84:98:AA:E9:13:56:B1:5F:1A:E7:78:9C"
+            ]
+        }
+    }
+]
