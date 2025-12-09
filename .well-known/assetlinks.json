@@ -1,14 +1,62 @@
 [
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "tyco.entrapass.mobilepass",
+            "sha256_cert_fingerprints": [
+                "01:B4:1F:7B:27:EB:85:2A:BB:67:CD:A1:D7:E4:7A:E6:AC:D6:BB:6B:BF:5B:1D:12:51:8B:D6:A4:83:E5:78:6B"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.Kantech.EntrapassGo",
+            "sha256_cert_fingerprints": [
+                "FF:08:2B:90:EB:FB:7E:C0:F8:DF:CB:89:50:8E:6F:33:7C:CC:0C:45:3B:C6:97:B8:A4:09:BB:41:A4:D4:EB:0B"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.kantech.entrapassgoinstall",
+            "sha256_cert_fingerprints": [
+                "5F:BC:22:DC:E7:81:80:04:ED:08:C3:D9:1A:D0:BF:C9:B9:CB:A1:45:AE:66:2A:B6:27:4C:50:AA:DE:3C:14:C0"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.acvs.osp",
+            "sha256_cert_fingerprints": [
+                "E9:91:21:D0:A3:40:4E:F7:74:09:E3:A6:60:92:DE:CC:D5:76:56:3B:6E:EB:E8:04:49:34:76:60:8E:DF:55:E0"
+            ]
+        }
+    },
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.avcs.highspanmobilepass",
-      "sha256_cert_fingerprints": [
-        "A4:6B:D0:46:BA:0C:7E:86:7E:EE:CB:12:B6:30:B1:82:51:43:22:80:84:98:AA:E9:13:56:B1:5F:1A:E7:78:9C"
-      ]
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.avcs.highspanmobilepass",
+            "sha256_cert_fingerprints": [
+                "A4:6B:D0:46:BA:0C:7E:86:7E:EE:CB:12:B6:30:B1:82:51:43:22:80:84:98:AA:E9:13:56:B1:5F:1A:E7:78:9C"
+            ]
+        }
     }
-  }
 ]
