@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "3WM4LQWW7X.com.kantech.osp.ios"
+        ],
+        "components": [
+          {
+            "/": "/highspanmobilepass/*"
+          }
+        ]
+      }
+    ]
+  }
+}
