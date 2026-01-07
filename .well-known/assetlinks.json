@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.avcs.highspanmobilepass",
+            "package_name": "com.acvs.highspanmobilepass",
             "sha256_cert_fingerprints": [
-                "A4:6B:D0:46:BA:0C:7E:86:7E:EE:CB:12:B6:30:B1:82:51:43:22:80:84:98:AA:E9:13:56:B1:5F:1A:E7:78:9C"
+                "5F:E7:16:43:FE:FB:E9:82:0E:25:7E:26:4E:60:F9:84:10:FE:9F:7C:21:A3:D0:59:B5:B5:A3:5F:13:96:37:AE"
             ]
         }
     }
